@@ -8,7 +8,8 @@ A responsive sidebar menu built with **only HTML and CSS**, no JavaScript at all
 
 ---
 ## 🎥 Screenshot
-[![Smart Checkbox Sidebar](https://raw.githubusercontent.com/MrunaliniPachpute/Smart-Checkbox-Sidebar/main/assets/screenshot.png)](https://mrunalinipachpute.github.io/Smart-Checkbox-Sidebar/)
+[![Smart Checkbox Sidebar](https://api.microlink.io/?url=https://mrunalinipachpute.github.io/Smart-Checkbox-Sidebar/&screenshot=true&meta=false&embed=screenshot.url)](https://mrunalinipachpute.github.io/Smart-Checkbox-Sidebar/)
+
 
 
 
