@@ -13,7 +13,6 @@ A responsive sidebar menu built with **only HTML and CSS**, no JavaScript at all
 </a>
 
 
-
 ## 💡 Features
 
 - 🎨 Stylish and responsive layout using Poppins font
